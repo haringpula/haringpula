@@ -7,7 +7,7 @@
 
 - I’m currently learning **everything**
 
-- How to reach me **king.red@gmail.com**
+- How to reach me **kingred.sanchez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm King Red Sanchez</h1>
-<h3 align="center">A 4th Year Computer Science student from Polytechnic University of the Philippines</h3>
+<h3 align="center">A recent Computer Science graduate from Polytechnic University of the Philippines</h3>
 
-- I’m currently working on **school related stuff**
+- I’m currently working on **grad related stuff**
 
 - I'm interested in **problem solving and programming**
 
